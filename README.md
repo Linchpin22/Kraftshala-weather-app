@@ -33,7 +33,7 @@ This is a weather application built using React and Vite. The application displa
 
 ## Usage
 
-- Open your browser and navigate to http://localhost:3000.
+- Open your browser and navigate to http://localhost:5173.
 - The weather information for Delhi will be displayed by default.
 
 ## Configuration
